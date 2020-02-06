@@ -1,0 +1,13 @@
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\bin\Debug\netcoreapp3.0\IowaCaucusResultsParser.exe
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\obj\Debug\netcoreapp3.0\IowaCaucusResultsParser.csprojAssemblyReference.cache
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\obj\Debug\netcoreapp3.0\IowaCaucusResultsParser.AssemblyInfoInputs.cache
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\obj\Debug\netcoreapp3.0\IowaCaucusResultsParser.AssemblyInfo.cs
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\bin\Debug\netcoreapp3.0\IowaCaucusResultsParser.deps.json
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\bin\Debug\netcoreapp3.0\IowaCaucusResultsParser.runtimeconfig.json
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\bin\Debug\netcoreapp3.0\IowaCaucusResultsParser.runtimeconfig.dev.json
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\bin\Debug\netcoreapp3.0\IowaCaucusResultsParser.dll
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\bin\Debug\netcoreapp3.0\IowaCaucusResultsParser.pdb
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\bin\Debug\netcoreapp3.0\HtmlAgilityPack.NetCore.dll
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\obj\Debug\netcoreapp3.0\IowaCaucusResultsParser.csproj.CopyComplete
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\obj\Debug\netcoreapp3.0\IowaCaucusResultsParser.dll
+C:\Users\caleb\source\repos\IowaCaucusResultsParser\IowaCaucusResultsParser\obj\Debug\netcoreapp3.0\IowaCaucusResultsParser.pdb
